@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "AdminFiles",
+      "permissions": ["*"]
+    },
+    {
+      "username": "Fernando",
+      "password": "FernandoFiles",
+      "permissions": ["read", "write"]
+    }
+  ]
+}
